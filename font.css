@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Riposte Light";
+    src: url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.eot");
+    src: url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.woff") format("woff"), url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/2ec6093db27996dffb7a91e816a11999.svg#Riposte Light") format("svg");
+}
+@font-face {
+    font-family: "Riposte SemiBold";
+    src: url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.eot");
+    src: url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.woff") format("woff"), url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e6cc3f984c7f4a23ff39d7056f1e49a3.svg#Riposte SemiBold") format("svg");
+}
